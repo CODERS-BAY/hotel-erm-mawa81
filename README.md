@@ -47,4 +47,4 @@ package, one or more carers are responsible.
  
 #### own ERM:
 
-![own ERM](.jpg)
+![own ERM](hotel_own_erm.jpg)
